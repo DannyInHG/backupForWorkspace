@@ -1,0 +1,27 @@
+package testseri;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.ObjectOutputStream;
+
+public class TestSeri {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		try {
+			FileOutputStream fileStream = new FileOutputStream("F:/testseri.txt");
+			ObjectOutputStream os = new ObjectOutputStream();
+			
+			
+			
+		} catch (FileNotFoundException e) {
+	
+			e.printStackTrace();
+		}
+		
+
+	}
+
+}

@@ -1,0 +1,16 @@
+package testseri;
+
+import java.io.FileOutputStream;
+
+public class TestSeri {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		FileOutputStream fileStream = new FileOutputStream("F:/testseri.txt");
+		
+
+	}
+
+}

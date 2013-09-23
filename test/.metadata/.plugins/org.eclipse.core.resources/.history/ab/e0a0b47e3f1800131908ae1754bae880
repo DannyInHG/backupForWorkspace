@@ -1,0 +1,8 @@
+package testfile;
+
+import java.io.File;
+
+public class TestFile {
+	File testFile = new File();
+	
+}

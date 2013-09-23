@@ -1,0 +1,17 @@
+INDEX VERSION 1.126+D:\Workspace\fivecardstud\.metadata\.plugins\org.eclipse.jdt.core
+1964974260.index
+1865823651.index
+723152973.index
+3009665467.index
+2356222625.index
+1177897212.index
+3284016410.index
+322398547.index
+4115218678.index
+2579709573.index
+269998204.index
+1529071232.index
+2347520887.index
+3980128130.index
+3985603461.index
+3612230531.index
