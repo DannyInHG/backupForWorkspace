@@ -1,0 +1,7 @@
+isRoot=false
+isLeaf=true
+parentIndex=null
+childsIndex=null
+preIndex=5.txt
+nexIndex=null
+entries=null

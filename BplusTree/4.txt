@@ -1,0 +1,7 @@
+isRoot=true
+isLeaf=false
+parentIndex=null
+childsIndex=null
+preIndex=null
+nexIndex=null
+entries=null

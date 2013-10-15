@@ -1,0 +1,7 @@
+isRoot=false
+isLeaf=false
+parentIndex=11.txt
+childsIndex=[7.txt, 8.txt]
+preIndex=null
+nexIndex=null
+entries=[5=null, 8=null]

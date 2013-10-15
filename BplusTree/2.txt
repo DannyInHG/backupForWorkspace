@@ -1,0 +1,7 @@
+isRoot=false
+isLeaf=true
+parentIndex=9.txt
+childsIndex=null
+preIndex=null
+nexIndex=5.txt
+entries=[1=page.jpg, 2=page.jpg]
