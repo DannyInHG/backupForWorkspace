@@ -1,4 +1,7 @@
 
+
+
+
 public interface B {
 	   public Object get(Comparable key) throws Exception;   //²éÑ¯
 	   public void remove(Comparable key) throws Exception;    //ÒÆ³ý
